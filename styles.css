@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana;
+}
+
+#spanCount {
+  background-color: tomato;
+  color: white;
+}
+
+#spanAverageCost {
+  background-color: dodgerBlue;
+  color: white;
+}
